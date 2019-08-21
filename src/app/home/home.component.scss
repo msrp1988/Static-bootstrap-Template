@@ -1,0 +1,240 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+.the-icons {
+    font-size: 25px;
+}
+
+.container-fluid {
+    height: auto;
+    width: 100%;
+    background: rgb(32, 31, 31);
+}
+
+.container {
+    height: auto;
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.btn-default {
+    color: white;
+    border: 1px solid rgb(181, 188, 199);
+    border-radius: 0;
+    margin-top: 5px;
+}
+
+.navbar-nav {
+    color: whitesmoke;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: whitesmoke;
+}
+
+a:hover {
+    border-top: 1px solid rgb(236, 236, 231);
+    border-bottom: 1px solid rgb(236, 236, 231);
+}
+
+.banner {
+    height: auto;
+    width: 100%;
+    padding-bottom: 90px;
+    background-image: url('../../assets/1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner2 {
+    height: auto;
+    width: 100%;
+    padding-bottom: 90px;
+    background-image: url('../../assets/2.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-center {
+    height: auto;
+    width: 100%;
+    padding-top: 70px;
+    font-size: 24px;
+    color: white
+}
+
+p {
+    padding-top: 5px;
+    font-size: 34px;
+    font-weight: bolder;
+}
+
+.btn-orange {
+    height: 35px;
+    width: 110px;
+    margin-top: 20px;
+    color: rgb(245, 235, 201);
+    font-weight: bold;
+    font-size: 13px;
+    background: rgb(236, 169, 43);
+    border: 1px solid orange;
+    border-radius: 1px;
+}
+
+.bg-warning {
+    height: 10px;
+}
+
+.diamond {
+    height: 10px;
+    width: 10px;
+    margin-top: 10px;
+    margin-left: 78px;
+    padding: 5px;
+    transform: rotate(45deg);
+    background: rgb(247, 246, 246);
+    border: 4px solid rgb(247, 243, 243);
+}
+
+hr.style1 {
+    height: 10px;
+    width: 60%;
+    margin-right: -77px;
+    border-top: 3px solid #f7f2f2;
+}
+
+hr.style2 {
+    height: 10px;
+    width: 60%;
+    margin-right: 215px;
+    border-top: 3px solid #f7f2f2;
+}
+
+.line-block {
+    margin-top: -20px;
+}
+
+.bg-warning {
+    height: 1rem;
+}
+
+element.style {
+    width: 30%;
+}
+
+.section-1 {
+    margin-top: 40px;
+}
+
+.section-2 {
+    height: auto;
+    width: 100%;
+    margin-top: 40px;
+    background: rgb(247, 245, 245);
+}
+
+.section-3 {
+    height: auto;
+    width: 70%;
+    margin-top: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+hr.style3 {
+    height: 10px;
+    width: 10%;
+    margin-right: -79px;
+    border-top: 1px solid #f7f2f2;
+}
+
+hr.style4 {
+    height: 10px;
+    width: 10%;
+    margin-left: -80px;
+    border-top: 1px solid #f7f2f2;
+}
+
+.progress {
+    height: 5px;
+    width: 58%;
+    background: rgb(245, 225, 160);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.progress1 {
+    height: 5px;
+    width: 88%;
+    background: rgb(245, 225, 160);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.progress2 {
+    height: 5px;
+    width: 40%;
+    background: rgb(245, 225, 160);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    height: 25px;
+}
+
+h5 {
+    color: rgb(32, 28, 28);
+    font-size: 11px;
+    font-weight: bolder;
+}
+
+h6 {
+    margin-top: 15px;
+    font-size: 13px;
+    color: rgb(172, 169, 169);
+}
+
+.fas {
+    height: 40px;
+    width: 50px;
+    background: green;
+}
+
+.glyphicon {
+    font-size: 45px;
+    color: rgb(138, 136, 136);
+}
+
+.footer {
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.social-links {
+    height: 40px;
+    padding-top: 10px;
+    background: orange;
+}
+
+.content {
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    text-align: left;
+    padding-left: -120px;
+}
+
+.fa {
+    color: white;
+}
+
+.facebook,
+.twitter,
+.fa-pinterest,
+.google {
+    margin-left: 10px;
+}
